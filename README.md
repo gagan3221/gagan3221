@@ -10,11 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/gagannn3211" target="blank"><img src="https://img.shields.io/twitter/follow/gagannn3211?logo=twitter&style=for-the-badge" alt="gagannn3211" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio**
-
-- 🌱 I’m currently learning **React js , jquery ,other javascript frameworks**
-
-- 💬 Ask me about **Web dev**
 
 - 📫 How to reach me **reanimatedgagan@gmail.com**
 
